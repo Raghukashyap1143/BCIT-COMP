@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "BCIT : COMP 3677",
+    "Language": "English",
+    "BaseURL": "https://github.com/CloudLabsAI-Azure/BCIT",
+    "Files": [
+      {
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/BCIT/main/Getting-started.md",
+        "Order": 1
+      }
+    ]
+  }
+]
