@@ -2,10 +2,10 @@
   {
     "Name": "BCIT : COMP 3682",
     "Language": "English",
-    "BaseURL": "https://github.com/CloudLabsAI-Azure/BCIT",
+    "BaseURL": "https://github.com/Raghukashyap1143/BCIT-COMP",
     "Files": [
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/BCIT/main/COMP-3682/Getting-Started.md",
+        "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/BCIT-COMP/refs/heads/main/COMP-3682/Getting-started.md",
         "Order": 1
       }
     ]
