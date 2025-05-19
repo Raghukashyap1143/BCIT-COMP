@@ -6,7 +6,7 @@
 
 1. Once the environment is provisioned, a **virtual machine** (JumpVM) on the left and a lab guide on the right will get loaded in your browser. Use this virtual machine throughout to perform the lab tasks.
 
-   ![](images/vmandguide.png)
+   ![](images/comp-3682.png)
 
 2. To get the lab environment details, you can select the **Environment details** tab, you can locate the **Environment details** tab in the upper right corner.
    
